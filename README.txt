@@ -1,5 +1,5 @@
 Step 1:
-Open xampp control 
+Open xampp control, start Apache and MySQL
 
 Step 2:
 extract the zip file in the folder, xampp/htdocs
