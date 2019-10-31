@@ -444,7 +444,7 @@ var heatmap = new google.maps.visualization.HeatmapLayer({
 
 </script>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADi8NRep2ngwL4X-jWgQUiIgh4QhWq7l8&libraries=visualization&callback=myMap
+<script async defer src="https://maps.googleapis.com/maps/api/js?key="apikey"&libraries=visualization&callback=myMap
 "></script>
 <div id="myNav" class="overlay">
   <a href="javascript:void(0)" class="closebtn" onclick="closeSide()">&times;</a>
